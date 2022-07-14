@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NodeJs(Express, Mongoose, MongoDB)**
 
-- 👨‍💻 All of my projects are available at [github.com/mikhaael](github.com/Mikhaael)
+- 👨‍💻 All of my projects are available at [github.com/Mikhaael](github.com/Mikhaael)
 
 - 💬 Ask me about **dart, flutter, nodeJS, js, python, C, C++**
 
